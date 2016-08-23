@@ -1,0 +1,9 @@
+*.iobj
+*.tlog
+*.ipch
+*.vspx
+*.opendb
+*.ipdb
+*.db
+*.idb
+*.psess
